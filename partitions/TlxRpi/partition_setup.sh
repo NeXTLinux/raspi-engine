@@ -1,5 +1,5 @@
 #!/bin/sh
-#supports_backup in PINN
+#supports_backup in RASPI-NxL
 
 set -ex
 
