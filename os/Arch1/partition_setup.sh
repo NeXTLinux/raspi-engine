@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# NOOBS partition setup script for Arch Linux ARM
+# RASPI-NxL partition setup script for Arch Linux ARM
 #  - part1 == boot partition (FAT), part2 == root partitions (ext4)
 #  - example usage:
 #    part1=/dev/mmcblk0p7 part2=/dev/mmcblk0p8 ./partition_setup.sh
